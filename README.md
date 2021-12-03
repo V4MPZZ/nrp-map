@@ -2,5 +2,4 @@
 
 Custom Server Fullsized map / minimap
 
-[DISCORD][https://discord.gg/nrp]
-[TEBEX](https://ncrpdonations.tebex.io/)
+[DISCORD](https://discord.gg/nrp) | [TEBEX](https://ncrpdonations.tebex.io/)
